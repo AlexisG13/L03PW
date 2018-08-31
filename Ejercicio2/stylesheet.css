@@ -1,0 +1,55 @@
+header{
+    
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.black{
+    background-color: black;
+}
+
+
+.white{
+    background-color:white; 
+}
+
+.table td{
+    margin:0;
+   width: 15px;
+   height: 15px;
+   max-width: 15px;
+   max-height: 15px;
+}
+
+.table td:hover{
+    background-color:rgba(255, 0, 0, 0.5);
+}
+
+.table td:hover p{
+    visibility: visible;
+}
+
+footer{
+    font-size: 40%;
+    margin-top: 20px;
+}
+
+footer table{
+    margin:auto;
+    max-width: 50px;
+}
+.table{
+    margin:auto;
+}
+
+p{
+  visibility: hidden;
+  font-size: 25%;
+}
+
+
+
+
+
+
+
