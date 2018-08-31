@@ -1,5 +1,6 @@
 header{
-    
+    font-family: 'Monoton', cursive;
+    word-spacing: 25%;
     text-align: center;
     margin-bottom: 15px;
 }
@@ -47,7 +48,9 @@ p{
   font-size: 25%;
 }
 
-
+#caballo2{
+    -webkit-transform: scaleX(-1);
+}
 
 
 
