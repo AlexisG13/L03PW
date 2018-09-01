@@ -16,6 +16,7 @@ header{
 
 .table td{
     margin:0;
+    padding:0;
    width: 15px;
    height: 15px;
    max-width: 15px;
@@ -41,11 +42,16 @@ footer table{
 }
 .table{
     margin:auto;
+    table-layout:fixed;
+    border-collapse:collapse;
 }
 
 p{
   visibility: hidden;
+  margin:0px;
+  padding:1px;
   font-size: 25%;
+  
 }
 
 #caballo2{
