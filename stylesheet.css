@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+    color:white;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    text-align: center;
+    font-size: 1em;
+    border:none;
+    border-radius:5px;
+    padding: 10px 17px 8px;
+    background-color:#eb6f62;
+}
