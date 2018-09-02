@@ -1,0 +1,157 @@
+div{
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.tamaños{
+    background-color: #f4f3f2;
+    text-align: center;
+    border-radius: 5px;
+    border:none;
+    display:inline-block;
+    color:rgb(115, 115, 115);
+    margin:8px;
+}
+
+#normal{
+    padding:10px 17px 8px;
+    font-size: 1em;
+}
+
+#pequeno{
+    padding:7px 10px;
+    font-size:0.65em;
+}
+
+#grande{
+    padding:13px 20px;
+    font-size:1.35em;
+}
+
+.colores{
+    color:white;
+    text-align: center;
+    font-size: 1em;
+    border:none;
+    border-radius:5px;
+    padding: 10px 17px 8px; 
+}
+
+#esmeralda{
+    background-color:#57d68d;
+}
+
+#cielo{
+    background-color:#75c0e7;
+}
+
+#amatista{
+    background-color:#ae7ac4;
+}
+
+#asfalto{
+    background-color:#5c6d7e;
+}
+
+#topazio{
+    background-color:#ea974e;
+}
+
+#rubi{
+    background-color:#eb6f62;
+}
+
+.bordeado{
+    background-color:white;
+    text-align: center;
+    border-radius: 5px;
+    border:solid;
+    font-size:1em;
+    border-width: 1.5px;
+    display:inline-block;
+    padding: 10px 17px 8px; 
+    margin:8px;
+}
+
+#simple{
+    border-color: #787878;
+    color:#787878;
+}
+
+#esmeralda_b{
+    border-color:#57d68d;
+    color:#57d68d;
+}
+
+#amatista_b{
+    border-color:#ae7ac4;
+    color:#ae7ac4;
+}
+
+#cielo_b{
+    border-color:#75c0e7;
+    color:#75c0e7;
+}
+
+#asfalto_b{
+    border-color:#5c6d7e;
+    color:#5c6d7e;
+}
+
+#topazio_b{
+    border-color:#ea974e;
+    color:#ea974e;
+}
+
+#rubi_b{
+    border-color:#eb6f62;
+    color:#eb6f62;
+}
+
+#largo_asfalto{
+    color:white;
+    text-align: center;
+    background-color:#5c6d7e;
+    font-size: 1.35em;
+    border:none;
+    border-radius:5px;
+    padding: 13px 20px;
+}
+
+#borde_cielo{
+    background-color:white;
+    text-align: center;
+    border-radius: 5px;
+    border:solid;
+    color:#75c0e7;
+    font-size:1em;
+    border-color:#75c0e7;
+    border-width: 1.5px;
+    display:inline-block;
+    padding: 10px 17px 8px; 
+    margin:8px;
+}
+
+#pequeña_esmeralda{
+    color:white;
+    text-align: center;
+    font-size: 0.65em;
+    background-color:#57d68d;
+    border:none;
+    border-radius:5px;
+    padding: 7px 10px;; 
+}
+
+#borde_rubi{
+    background-color:white;
+    text-align: center;
+    border-radius: 5px;
+    border:solid;
+    color:#eb6f62;
+    font-size:1.35em;
+    border-color:#eb6f62;
+    border-width: 1.5px;
+    display:inline-block;
+    padding:13px 20px ; 
+    margin:8px;
+}
